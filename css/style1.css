@@ -1,0 +1,23 @@
+body{
+    background-image: url(fon.jpg);
+    height: 100%;
+} 
+.box{
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+ .space 
+            {   padding: 20px; 
+                height: 220px;
+                width: 300px;
+                background: #d0c9d4; 
+                border: double;
+                margin: 15px;
+                display: inline-block;
+                text-align: center;
+                
+            }
+ A {
+    color: white; 
+   }
